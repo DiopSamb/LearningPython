@@ -14,3 +14,4 @@ def capital_indexes(a):
 print(capital_indexes("HeLlO"))
 
 
+
