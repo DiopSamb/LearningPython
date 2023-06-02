@@ -15,3 +15,5 @@ def capital_indexes(a):
     return list 
 print(capital_indexes("HeLlO"))
 
+
+
