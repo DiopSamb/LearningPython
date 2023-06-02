@@ -13,3 +13,4 @@ def capital_indexes(a):
             list.append(x)
     return list 
 print(capital_indexes("HeLlO"))
+
