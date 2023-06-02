@@ -10,10 +10,6 @@ def capital_indexes(a):
     list = []
     for x in range(long):
         if a[x].isupper() is True :
-            
             list.append(x)
     return list 
 print(capital_indexes("HeLlO"))
-
-
-
