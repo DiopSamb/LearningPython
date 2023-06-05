@@ -4,9 +4,10 @@
 #For example, mid("abc") should return "b" and mid("aaaa") should return ".
 
 def mid (argument):
+   chaine = ""
    mid = int(len(argument))
    if mid % 2 == 0 :
-      return  
+      return  chaine
    else:
        mid = mid // 2 + 1
        return argument[mid - 1] 
